@@ -1,0 +1,43 @@
+Spirit Island Game Progression
+
+Board Setup:
+In another file
+After: draw top card of explorer deck, put explorers in all lands of that type
+Blight: 5 per player
+Fear: 4 per player
+Fear Deck:3/3/3 terror levels
+Terror Level 1: Destroy everything
+Terror Level 2: Detroy towns and cities
+Terror Level 3: Destroy cities
+
+Explorer Deck: take out 1 card from each "phase"
+Phase 1 cards:
+mountain, wetlands, jungle, sands
+Phase 2:
+mountain, wetlands, jungle, sands, coastal
+Phase 3: 
+sands/wetlands, sands/mountains, sands/jungle, jungle/wetlands, jungle/mountain, mountain/wetlands 
+
+Game Play:
+Growth
+Gain Energy
+Play and Pay for Power Cards
+
+Fast Powers
+
+Invaders:
+Blighted Island (Developer's Note: to add after almost everything else)
+Fear (if fear 4x the amount of players has been earned, get fear card)
+Ravage
+explorers 1 dmg/health, towns and dahan 2 dmg/health, cities 3 dmg/health
+(explorers attack first)
+If more than 2 damage was done after defending, add a blight and remove 1 presence from each spirit in that land
+->build
+if more towns than cities, add city. otherwise, add town
+->explore
+flip top of deck, only explore if bordering town, city, or ocean
+->(advance track)
+
+Slow Powers
+
+Time Passes

@@ -1,0 +1,85 @@
+Spirit Island Board Setup
+A
+2 - city and dahan
+3 - 2 dahan
+4 - blight
+6 - dahan
+7 - 2 dahan
+8 - town
+
+B
+1 - dahan
+2 - city
+3 - 2 dahan
+4 - blight
+6 - town
+7 - dahan
+8 - 2 dahan
+
+C
+1 - dahan
+2 - city
+3 - 2 dahan
+5 - 2 dahan and 1 blight
+6 - dahan
+7 - town
+
+D
+1 - 2 dahan
+2 - city and dahan
+5 - dahan and blight
+7 - town and 2 dahan
+
+Player Spirits:
+Lightning's Swift Strike (2 on highest sands)
+A - 2 on 7
+B - 2 on 5
+C - 2 on 6
+D - 2 on 7
+
+Spread of Rampant Green (1 on highest wetlands, 1 on jungle w/o dahan)
+A - 1 on 5, 1 on 8
+B - 1 on 6, 1 on 4
+C - 1 on 8, 1 on 4
+D - 1 on 3, 1 on 6
+
+Bringer of Dreams and Nightmares (2 on highest sands)
+A - 2 on 7
+B - 2 on 5
+C - 2 on 6
+D - 2 on 7
+
+Ocean's Hungry Grasp (1 in ocean, 1 in coastal land of choice)
+all maps ocean + (1, 2, or 3)
+
+Shadows Flicker Like Flame (2 highest jungle, 1 in #5)
+A - 2 on 8, 1 on 5
+B - 2 on 8, 1 on 5
+C - 2 on 4, 1 on 5
+D - 2 on 6, 1 on 5
+
+Thunderspeaker (1 each of 2 lands with most dahan)
+A - 1 on 1 and 7
+B - 1 on 3 and 7
+C - 1 on 3 and 8
+D - 1 on 3 and 5
+
+Heart of the Wildfire (3 presence and 2 blight in highest sands)
+A - 3 on 7
+B - 3 on 5
+C - 3 on 6
+D - 3 on 7
+
+Serpent Slumbering Beneath the Sand (1 in #5)
+
+River Surges in Sunlight ( 1 in highest wetlands)
+A - 1 on 5
+B - 1 on 6
+C - 1 on 8
+D - 1 on 3
+
+Vital Strength of the Earth (2 in highest mountain, 1 in highest jungle)
+A - 2 on 6, 1 on 8
+B - 2 on 7, 1 on 8
+C - 2 on 7, 1 on 4
+D - 2 on 8, 1 on 6

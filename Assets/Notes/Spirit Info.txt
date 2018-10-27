@@ -1,0 +1,442 @@
+Spirit Growth, Tracks, Special Rules, Innate Powers, and Starting Powers
+
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+Lightning's Swift Strike
+Growth Options:
+(Reclaim, +1 power card, +1 energy)/(+2 range presence, +0 range presence)/(+1 range presence, +3 energy)
+Energy/turn:
+(1), 1, 2, 2, 3, 4, 4, 5
+Card Plays:
+(2), 3, 4, 5, 6
+
+Special Rules:
+Swiftness of Lightning
+Each (AIR), can use (SLOW) power as if it were (FAST).
+
+Innate Powers:
+Thundering Destruction
+(SLOW)/+1 range (sacred site)/ANY
+3 (FIRE) 2 (AIR) Destroy 1 Town
+4 (FIRE) 3 (AIR) May instead destroy a City
+5 (FIRE) 4 (AIR) 1 (WATER) Also, destroy town or city
+5/5/2 Also, destroy town or city
+
+Starting Powers:
+Lightning's Boon (1 cost)
+(FAST)/-- range/ANY SPIRIT/(FIRE)(AIR)
+Spirit can use up to 2 (SLOW) powers as if they were (FAST) this turn.
+
+Harbingers of the Lightning (0 cost)
+(SLOW)/1 range/ANY/(FIRE)(AIR)
+Push up to 2 dahan.
+1 (FEAR) if you pushed any dahan into land with towns or cities.
+
+Raging Storm (3 cost)
+(SLOW)/1 range/ANY/(FIRE)(AIR)(WATER)
+1 Damage to each invader.
+
+Shatter Homesteads (2 cost)
+(SLOW)/2 range (sacred site)/ANY/(FIRE)(AIR)
+1 (FEAR). Destroy 1 town.
+
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+Spread of Rampant Green
+Growth Options:(ALWAYS +2 range presence to jungle or wetland)
+(Reclaim, +1 power card)/(+1 range presence, +1 card play this turn)/(+1 power card, +3 energy)
+Energy/turn:
+(0), 1, (PLANT), 2, 2, (PLANT), 3
+Card Plays:
+(1), 1, 2, 2, 3, 4
+
+Special Rules:
+Choke the Land with Green
+Whenever invaders would ravage or build in land with your sacred site, you prevent it by destroying one of your presence in that land.
+
+Steady Regeneration
+When adding presence, can use destroyed presence. (if BLIGHTED ISLAND, costs 1 energy per added presence)
+
+Innate Powers:
+Creepers Tear into Mortar
+(SLOW)/0 range/ANY
+1 (MOON) 2 (PLANT) 1 Damage to 1 town or city
+2/3 Repeat this power.
+3/4 Repeat this power again
+
+All-Enveloping Green
+(FAST)/+1 range from sacred site/ANY
+1 (WATER) 3 (PLANT) Defend 2.
+2/4 Instead, defend 4.
+3/1(EARTH)/5 Also, remove 1 blight.
+
+Starting Powers:
+Fields Choked with Growth (0 cost)
+(SLOW)/1 range/ANY/(SUN)(WATER)(PLANT)
+Push 1 town ~or~ push 3 dahan.
+
+Stem the Flow of Fresh Water (0 cost)
+(SLOW)/1 range (sacred site)/ANY/(WATER)(PLANT)
+1 damage to 1 town or city.
+If target land is (MOUNTAIN)/(SAND), instead 1 damage to each town/city.
+
+Gift of Proliferation (1 cost)
+(FAST)/-- range/another spirit/(MOON)(PLANT)
+Target spirit adds 1 presence up to 1 range from their presence.
+
+Overgrow in a Night (2 cost)
+(FAST)/1 range/ANY/(MOON)(PLANT)
+Add 1 presence ~or~ if target land has your presence and invaders, 3 (FEAR)
+
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+Bringer of Dreams and Nightmares
+Growth Options:
+(Reclaim, +1 power card)/(Reclaim ONE, +0 range presence)/(+1 power card, +1 range presence)/(+4 range presence to land with dahan or invaders, +2 energy)
+Energy/turn:
+(2), (AIR), 3, (MOON), 4, (ANY), 5
+Card Plays:
+(2), 2, 2, 3, 3, (ANY)
+
+Special Rules:
+To Dream a Thousand Deaths
+When power woulkd destroy, explorer/town/city generate 0/2/5 (FEAR).
+Push all explorer/town it would destroy.
+
+Innate Powers:
+Spirits May Yet Dream
+(FAST)/-- range/any spirit
+2 (MOON) 2 (AIR) Turn any face-down Fear Card face-up
+3 (MOON) Target Spirit Gains Element they have at least 1 of.
+
+Night Terrors
+(FAST)/0 range/INVADERS
+1 (MOON) 1 (AIR) 1 fear.
+2/1/1 (ANIMAL) +1 fear
+3/2/1 +1 fear
+
+Starting Powers:
+Predatory Nightmares (2 cost)
+(SLOW)/+1 range (sacred site)/INVADERS/(MOON)(FIRE)(EARTH)(ANIMAL)
+2 damage. Push up to 2 dahan.
+
+Dreams of the Dahan (0 cost)
+(FAST)/+2 range/ANY/(MOON)(AIR)
+Gather up to 2 dahan ~or~ if target land hsa towns/cities, 1 fear for each dahan, to a max of 3 fear.
+
+Call on Midnight's Dream (0 cost)
+(FAST)/+0 range/ANY/(MOON)(ANIMAL)
+If target land has dahan, gain major power. If you forget this power, gain energy equal to dahan and can play major power immediately paying its cost
+~or~
+If invaders are present, 2 fear.
+
+Dread Apparitions (2 cost)
+(FAST)/+1 range/INVADERS/(MOON)(AIR)
+When powers generate fear in target land, defend 1 per fear. 1 fear.
+(Fear from special rules count, fear from destroying towns/cities does not.)
+
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+Ocean's Hungry Grasp
+Growth Options:
+(Reclaim, +1 power card, gather 1 presence into each ocean, +2 energy)/(+1 presence in any ocean x2, +1 energy)/(+1 power card, +1 presence to coastal, push 1 presence from each ocean)
+Energy/turn:
+(0), (MOON), (WATER), 1, (EARTH), (WATER), 2
+Card Plays:
+(1), 2, 2, 3, 4, 5
+
+Special Rules:
+Ocean in Play
+You can move presence into oceans, but not inland lands. Oceans are treated as coastal wetlands for powers and blight.
+You drown any invaders or dahan moved to oceans.
+
+Drowning
+Any drowned pieces can be exchanged (X) health for 1 energy, where X = # of players
+
+Innate Powers:
+Pound Ships to Splinters
+FAST/+0 range/coastal
+1 MOON 1 AIR 2 WATER 1 fear
+2/1/3 +1 fear
+3/2/4 +2 fear
+
+Ocean Breaks the Shore
+SLOW/+0 range/coastal
+2 WATER 1 EARTH Drown 1 town
+3/2 You may instead drown 1 city
+4/3 Also, drown 1 town/city
+
+Starting Powers:
+Call of the Deeps (0 cost)
+FAST/+0 range/coastal/MOON AIR WATER
+Gather 1 explorer. If target land is Ocean, may gather another.
+
+Grasping Tide (1 cost)
+FAST/+1 range/coastal/MOON WATER
+2 fear. Defend 4.
+
+Tidal Boon (1 cost)
+SLOW/--/another spirit/MOON WATER EARTH
+Target spirit +2 energy and may push 1 town and up to 2 dahan from one of their lands.
+If dahan are pushed to your ocean, you may move them to any coastal land instead of drowning.
+
+Swallow the Land-Dwellers
+SLOW/+0 range/coastal/WATER EARTH
+Drown 1 explorer, town, and dahan.
+
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+Shadows Flicker Like Flame
+Growth Options:
+(Reclaim, +1 power card)/(+1 power card, +1 range presence)/(+3 range presence, +3 energy)
+Energy/turn:
+0, 1, 3, 4, 5, 6
+Card plays:
+1, 2, 3, 3, 4, 5
+
+Special Rules:
+Shadows of the Dahan
+Whenever you use power, you may pay 1 energy to target land with dahan regardless of range
+
+Innate Powers:
+Darkness Swallows the Unwary
+FAST/+1 range (sacred site)/ANY
+2 MOON, 1 FIRE Gather 1 explorer
+3/2 Destroy up to 2 explorers, 1 fear per explorer destroyed.
+4/3/2 AIR 3 Damage. 1 fera per invader destroyed by this damage
+
+Starting Powers:
+Favors Called Due (1 cost)
+SLOW/+1 RANGE/ANY/MOON AIR ANIMAL
+Gather up to 4 dahan. If invaders are present and dahan now outnumber them, 3 fear.
+
+Mantle of Dread (1 cost)
+SLOW/--/ANY SPIRIT/MOON FIRE AIR
+2 fear. Target spirit may push 1 explorer and 1 town from one of their lands
+
+Crops Wither and Fade (1 cost)
+SLOW/+0 RANGE/ANY/MOON FIRE PLANT
+2 fear.
+replace 1 town with 1 explorer ~or~ replace 1 city with 1 town
+
+Concealing Shadows (0 cost)
+FAST/+0 RANGE/ANY/MOON AIR
+1 fear. Dahan take no damage from ravaging invaders this turn.
+
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+Thunderspeaker
+Growth Options:
+(Reclaim, +2 power cards)/(+2 range presence with dahan, +1 range presence with dahan)/(+1 range presence, +4 energy)
+Energy/turn:
+1, AIR, 2, FIRE, SUN, 3
+Card plays:
+1,2, 2, 3, Reclaim 1, 3, 4
+
+Special Rules:
+Ally of the Dahan
+Your presence may move with dahan
+
+Sworn to Victory
+For each dahan destroyed by ravaging invaders, destroy 1 of your presence within 1 range (after losing to blight if relevant)
+
+Innate Powers:
+Gather the Warriors
+Slow/+1 range/any
+4 air, This power may be fast
+1 animal, gather up to 1 dahan per air you have. Push up to 1 dahan per sun you have
+
+Lead the Furious Assault
+Slow/+0 range/any
+4 air, this power may be fast
+2 sun 1 fire, destroy 1 town for every 2 dahan in target land
+4/3 destroy 1 city for every 3 dahan in target land
+
+Starting Powers:
+Words of Warning (1 cost)
+fast/1 range/dahan/sun air animal
+Defend 3. During ravage, dahan deal damage simultaneously
+
+Sudden Ambush (2 cost)
+fast/1 range/any/fire air animal
+You may gather 1 dahan each dahan destroys 1 explorer
+
+Voice of Thunder (0 cost)
+slow/1 range/any/sun air
+Push up to 4 dahan ~or~ if invaders are present, 2 fear
+
+Manifestation of Power and Glory (3 cost)
+slow/0 range/dahan/sun fire air
+1 fear. Each dahan deals damage equal to the number of your presence in target land
+
+
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+Heart of the Wildfire
+Growth Options:
+(Reclaim, +1 power card, +1 energy)/(+1 power card, +3 range presence)/(+1 range presence, +2 energy +1 per fire showing)
+Energy/turn:
+0, fire, 1, 2, fire+plant, 3
+Card Plays:
+1, fire, 2, 3, fire, 4
+
+Special Rules:
+Blazing Presence
+When you add or move presence after setup, in the land it goes to:
+For each fire showing on your presence tracks, do 1 damage
+If 2 or more are showing, add 1 blight
+Push all bears and any number of dahan
+If you add multiple presence onto a land at the same time, only do this once
+
+Destructive Nature
+Blight added due to Spirit effects does not destroy your presence (includes cascades)
+
+Innate Powers:
+Firestorm
+fast/+0 range/blight
+1 plant, 1 damage per 2 fire you have
+3 plant, instead 1 damage per fire you have
+4 fire 2 air, you may split this power's damage among any number of lands with blight where you have presence
+7 fire, in a land with blight where you have presence, push all dahan. Destroy all invaders and bears. 1 blight.
+
+The Burned Land Regrows
+slow/+0 range/any
+4 fire 1 plant, if target land has 2 blight or more, remove 1 blight
+4/2 instead, remove 1 blight
+5/2/2 earth, remove another blight
+
+Starting Powers:
+Threatening Flames (0)
+fast/0 range/blight+invaders/fire plant
+2 fear. Push 1 explorer or town per terror level from target land to adjacent lands without your presence
+If there are no such adjacent lands, +2 fear
+
+Asphyxiating Smoke (2)
+slow/2 range(sacred site)/any/fire air plant
+1 fear. destroy 1 town. push 1 dahan
+
+Flame's Fury (0)
+fast/-/any spirit/sun fire plant
+Target spirit +1 energy. Does +1 damage with each damage dealing power
+
+Flash-Fires (2)
+slow/1 range/any/fire air
+1 fear. 1 damage.
+If you have 2 air, this power is fast
+
+
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+Serpent Slumbering Beneath the Island
+Growth Options (Pick TWO)
+(Reclaim, move presence range 1)/(+1 power card, +1 energy)/(+4 energy)/(+3 range presence without blight)
+Energy/turn:
+1, fire, any, reclaim 1, EARTH**, 6, any, 12
+Card plays:
+1, moon, 2, water, EARTH**, 4, 5 and reclaim 1
+
+Special Rules:
+Deep Slumber
+You start off limited to 5 presence on the island. raise with Absorb essence power card. 5, 7, 8, 10, 11, 12, 13
+
+Innate Powers:
+Serpent Wakes in Power
+slow/-/you
+2 fire 1 water 1 plant, gain 1 energy. Other spirits with absorbed presence also gain 1 energy
+2 water 3 earth 2 plant, add 1 presence at 1 range. Other spirits with 2 or more absorbed presence may do likewise
+3 fire 3 water 3 earth 3 plant, gain a major power without forgetting. other spirits with 3 or more...
+
+Serpent Rouses in Anger
+slow/0 range/any
+1 fire 1 earth, for each fire earth you have, 1 damage to 1 town or city
+2 moon 2 earth, for each 2 moon 2 earth you have, 2 fear and you may push 1 town from target land
+5 moon 6 fire 6 earth 7 energy, in every land in the game, X damage, where X is the number of presence you have in and adjacent to that land
+
+Starting Powers:
+Absorb Essence (2)
+fast/-/another spirit/moon fire water earth
+Gain 3 energy. Move a target spirits presence from board to your deep slumber track. Target spirit gains 1 of any element and 1 energy
+
+Gift of Flowing Power (1)
+fast/-/another spirit/fire water
+Target spirit +1 energy.
+They choose to either: play another power card by paying ~or~ 1 fire 1 water
+
+Elemental Aegis (1)
+fast/0 range/any/fire water earth
+defend 2 in target land and all adjacent lands.
+For every presence on deep slumber, defend 1 more in target land and adjacent lands
+
+Gift of the Primordial Deeps (1)
+fast/-/another spirit/moon earth
+Target spirit gains minor power.
+They either: play it immediately by paying cost ~or~ gain 1 moon 1 earth
+
+
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+River Surges in Sunlight
+Growth Options:
+(Reclaim, +1 power card, +1 energy)/(+1 range presence x2)/(+1 power card, +2 range presence)
+Energy/turn:
+1, 2, 2, 3, 4, 4, 5
+Card Plays:
+1, 2, 2, 3, reclaim 1, 4, 5
+
+Special Rules:
+River's Domain
+Your presence in wetlands count as sacred sites
+
+Innate Powers:
+Massive Flooding
+slow/1 range (sacred site)/any
+1 sun 2 water, push 1 explorer/town
+2/3 instead, 2 damage. push up to 3 explorer/towns
+3/4/1 earth, instead, 2 damage to each invader
+
+Starting Powers:
+River's Bounty (0)
+slow/0 range/any/sun water animal
+gather up to 2 dahan. if there are now at least 2, add 1 and +1 energy
+
+Wash Away (1)
+slow/1 range/any/water earth
+Push up to 3 explorers/towns
+
+Boon of Vigor (0)
+fast/-/any spirit/sun water plant
+If you target yourself, +1 energy
+if you target another spirit, they get +1 energy per card play this turn
+
+Flash Floods (2)
+fast/1 range/any/sun water
+1 damage. If land is coastal, +1 damage
+
+
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+Vital Strength of the Earth
+Growth Options:
+(Reclaim, +2 range presence)/(+1 power card, +0 range presence)/(+1 range presence, +2 energy)
+energy/turn:
+2, 3, 4, 6, 7, 8
+card plays:
+1, 1, 2, 2, 3, 4
+
+Special Rules:
+Earth's Vitality
+Defend 3 in every one of your sacred sites
+
+Innate Powers:
+Gift of Strength
+fast/-/any spirit
+1 sun 2 earth 2 plant, once this turn, target spirit may repeat 1 power card with energy cost 1 or less
+2/3/2, instead, the energy cost is 3 or less
+2/4/3 instead, 6 or less
+
+Starting Powers:
+Rituals of Destruction (3)
+slow/1 range (sacred site)/dahan/sun moon fire earth plant
+2 damage. if target land has at least 3 dahan, +3 damage and 2 fear
+
+Draw of the Fruitful Earth (1)
+slow/1 range/any/earth plant animal
+Gather up to 2 explorers and up to 2 dahan
+
+Guard the Healing Land (3)
+fast/1 range (sacred site)/any/water earth plant
+Remove 1 blight. Defend 4
+
+A Year of Perfect Stillness (3)
+fast/1 range/any/sun earth
+Invaders skip all actions in target land this turn
